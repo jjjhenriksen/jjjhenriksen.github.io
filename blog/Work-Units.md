@@ -3,8 +3,8 @@
 ## Table of Contents
 1. [What Are Work Units?](#what-are-work-units)
 2. [Alternatives to Work Units - Why Didn't They Work?](#alternatives-to-work-units)
-2.1 [Spoon Theory](#spoon-theory)
-2.2 [Battery Analogy](#battery-analogy)
+- 2.1 [Spoon Theory](#spoon-theory)
+- 2.2 [Battery Analogy](#battery-analogy)
 3. [How to Use Them](#how-to-use-work-units)
 
 # What Are Work Units?
