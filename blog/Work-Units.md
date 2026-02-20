@@ -130,6 +130,7 @@ This day ends up being 36 Work Units from standing calendar obligations. This to
 - Evening club or extracurricular activity after dinner (10 Work Units)
 This is 86 Work Units, so structurally we know this day needs more support than Monday. Even if each individual event is manageable in isolation, the cumulative load increases carryover risk.
 
+**Wednesday:**
 - 1 lecture (13 Work Units)
 - Solo lunch picked up to-go (1 Work Unit)
 - Independent assignment work (8 Work Units)
