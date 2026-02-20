@@ -33,6 +33,7 @@ Work Unit allocations follow a fairly simple process:
 2. [Assess your tasks](#assess-your-tasks)
 3. [Calculate Work Unit disbursement and accrual](#calculate-work-unit-disbursement-and-accrual)
     - [Daily sustainability](#what-is-the-sustainable-range-of-work-units-one-should-spend-or-complete-in-one-day)
+    - [Mathematical formulae](#mathematical-formulae)
 4. [Weekly/monthly recap](#weekly-or-monthly-recap)
 
 ## Identify your tasks
@@ -74,8 +75,21 @@ Questions to ask yourself when allocating work units:
 - Is the task meant to support your recovery?
 
 ## Calculate Work Unit disbursement and accrual
+Now that all of your tasks are allocated, calculating how many Work Units a day, or even a week, takes is simple. 
 
 ### What is the sustainable range of Work Units one should 'spend' or 'complete' in one day? 
+There is no universal daily Work Unit limit. Completing Work Units and determining your range is covered in the [weekly or monthly recap](#weekly-or-monthly-recap). For the purposes of clarity, a sustainable daily range is the amount of Work Units you can complete:
+- Without next-day strain or cognitive fog
+- Without 'borrowing heavily' from the following day
+
+Your 'baseline' will determine the range. Further, the baseline is never static. It reflects your current health, sleep quality, environmental stability, and cumulative load. Work Unit completion should be dynamically allocated.
+
+It is important to note that in my personal implementation of the Work Unit system, the baseline is based on a weekly rolling average of activities I've completed. This allows the model to reflect real-world performance rather than theoretical capacity. Over time, the baseline will change to reflect what the user's true stable operating range is.
+
+### Mathematical formulae
+To start, the *base* Work Unit allocation is:
+`Daily Load = Σ (Task WU allocations)`[^3]
+
 
 ## Weekly or monthly recap
 
@@ -83,3 +97,4 @@ Questions to ask yourself when allocating work units:
 # Footnotes
 [^1]: The ‘spoon theory’ is as follows: take a set amount of units of energy (in the original analogy, spoons off of every cafe table within the vicinity of the author and her friend’s conversation), and lay them out in a row. These ‘spoons’ now represent the amount of energy that a disabled person has for the day. Each task will take up a set amount of ‘spoons’; once you are out of spoons for the day, you can choose to borrow from the next day to do more tasks, but know that the next day will have less energy to perform a task. (Henriksen, 2025, written for a Disability Studies in-class essay) [Link to the (archived) original essay for further reading.](https://web.archive.org/web/20191117210039/https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 [^2]: The battery analogy has been used by many chronic illness and disability communities, so there is not one 'true' explanation. The analogy I had previously found to be useful personally: Each person starts with a fully charged battery. The capacity of the battery, much like your smartphone, is degraded for those of us with a disability. It therefore follows that the battery will deplete faster when completing daily activities. Once your battery reaches 0%, you have to complete recovery activities to charge your battery. [Link here](https://themighty.com/topic/chronic-illness/cell-phone-theory-spoon-theory-energy-chronic-illness/) and [here](https://batemanhornecenter.org/wp-content/uploads/2024/10/Video-Transcript-Life-with-a-Low-Battery-Living-with-MECFS.pdf) for two allocations of the battery analogy that make sense to me.
+[^3]: My personal implementation of the Work Unit has other bonuses and stacking modifiers calculated daily. That implementation is not going to be brought into this post, since it would detract from the generalized explanation.
