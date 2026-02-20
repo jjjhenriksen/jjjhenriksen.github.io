@@ -6,6 +6,11 @@
 - 2.1 [Spoon Theory](#spoon-theory)
 - 2.2 [Battery Analogy](#battery-analogy)
 3. [How to Use Them](#how-to-use-work-units)
+- 3.1 [Identify your tasks](#identify-your-tasks)
+- 3.2 [Assess your tasks](#assess-your-tasks)
+- 3.3 [Calculate Work Unit disbursement and accrual](#calculate-work-unit-disbursement-and-accrual)
+    - 3.3.1 [Daily sustainability](#what-is-the-sustainable-range-of-work-units-one-should-spend-or-complete-in-one-day)
+- 3.4 [Weekly/monthly recap](#weekly-or-monthly-recap)
 
 # What Are Work Units?
 The easiest way to describe a Work Unit is as follows: A unit of energy which denotes how much cognitive and structural load is required to execute an event or task.
@@ -27,8 +32,9 @@ This analogy used to be the one that I used to describe my capacity needs before
 Work Unit allocations follow a fairly simple process:
 1. [Identify your tasks](#identify-your-tasks)
 2. [Assess your tasks](#assess-your-tasks)
-3. Calculate Work Unit disbursement and accrual
-4. Weekly/monthly recap
+3. [Calculate Work Unit disbursement and accrual](#calculate-work-unit-disbursement-and-accrual)
+    - [Daily sustainability](#what-is-the-sustainable-range-of-work-units-one-should-spend-or-complete-in-one-day)
+4. [Weekly/monthly recap](#weekly-or-monthly-recap)
 
 ## Identify your tasks
 This is the hardest part of the entire Work Unit process. What are the **recurring**, **visible tasks** in your life? 
@@ -46,8 +52,33 @@ The Work Unit system also allows for recovery tracking and long-range planning. 
 Work Units aren't meant to maximize productivity at one's personal expense. Instead, Work Units are meant to help you allocate your time and energy to the things that mean the most, while still being able to balance mandatory tasks and obligations.
 
 ## Assess your tasks
-A Work Unit (WU) represents thirty minutes of ideal work. “Ideal work” means work performed under low sensory, social, and external cognitive load. For me, this means a quiet environment with minimal interruptions and high autonomy. For you, “ideal” may look different — but it must be consistent. This definition is now the baseline for which all Work Units will be allocated for your tasks.
+A Work Unit (WU) represents thirty minutes of ideal work. “Ideal work” means work performed under low sensory, social, and external cognitive load. For me, this means a quiet environment with minimal interruptions and high autonomy. For you, “ideal” may look different — but it must be consistent. This definition is now the baseline for which all Work Units will be allocated for your tasks. A task’s Work Unit allocation reflects how many thirty-minute blocks of ideal work it consumes in **structural impact** — *not* in clock time. 
 
+Examples of different tasks and their Work Unit allocations:
+- A 75-minute lecture takes up 13 work units because of the higher cognitive load required to absorb information and take notes.
+- Social obligations can consume up to 24 work units depending on length, sensory capacity, and political maneuvering.
+- A thirty-minute drive in heavy traffic may consume more than one work unit due to travel fatigue.
+- A high-visibility 45-minute presentation may cost more than a 90-minute lecture. 
+
+Concretely, the most important part of allocating work units is knowing, conceptually, that time doesn't equal work units. Two activities of identical duration may have radically different structural costs. 
+
+ For example, there are activities that can even *give* you work units, restoring your capacity to do deep work later:
+- Working on a passion project or researching a special interest
+- Low-demand social activity with trusted friends
+- (Pretending to) read a book while holding a mug of tea.
+
+After your first allocations, assessment becomes a structural exercise. 
+Questions to ask yourself when allocating work units:
+- How far is this task from ideal conditions?
+- How much context-switching, evaluation pressure, and other cognitive load is present?
+- Is there a sensory load that you need to account for?
+- Is the task meant to support your recovery?
+
+## Calculate Work Unit disbursement and accrual
+
+### What is the sustainable range of Work Units one should 'spend' or 'complete' in one day? 
+
+## Weekly or monthly recap
 
 
 # Footnotes
