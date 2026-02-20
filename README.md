@@ -1,2 +1,3 @@
-# jjjhenriksen.github.io
- 
+ Hello! 
+
+[Blog](/blog) - [Projects](/projects)
