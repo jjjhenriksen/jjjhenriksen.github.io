@@ -9,7 +9,6 @@
 - 3.1 [Identify your tasks](#identify-your-tasks)
 - 3.2 [Assess your tasks](#assess-your-tasks)
 - 3.3 [Calculate Work Unit disbursement and accrual](#calculate-work-unit-disbursement-and-accrual)
-    - 3.3.1 [Daily sustainability](#what-is-the-sustainable-range-of-work-units-one-should-spend-or-complete-in-one-day)
 - 3.4 [Weekly/monthly recap](#weekly-or-monthly-recap)
 
 # What Are Work Units?
