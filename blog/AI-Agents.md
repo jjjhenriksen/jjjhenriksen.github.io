@@ -30,3 +30,5 @@ After migrating to OpenClaw, I hope that I'll have an idea of where I want to ta
 
 # Footnotes
 [^1]: In essence, the Work Unit system is a further, more structured expansion on the disability concepts of ["spoon theory"](https://web.archive.org/web/20191117210039/https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) and ["battery analogy"](https://batemanhornecenter.org/wp-content/uploads/2024/10/Video-Transcript-Life-with-a-Low-Battery-Living-with-MECFS.pdf) while incorporating parts that I thought were missing from these analogies for my personal theory of energy and capacity. For a further explanation of how the system works, I encourage you to read [my blog post on the topic](Work-Units.md).
+
+#artificial-intelligence #documentation/ai-agent 
