@@ -5,7 +5,7 @@
 2. [Their Assistance and System Architecture](#their-assistance-and-architecture)
     - 2.1 [Types of Assistance](#types-of-assistance)
     - 2.2 [System Structure and Agent Roles](#system-structure-and-agent-roles)
-    - 2.3 [Interaction Model and Control Plane]()
+    - 2.3 [Interaction Model and Control Plane](#interaction-model-and-control-plane)
 4. [Design Principles](#design-principles)
 5. [Operational Model](#operational-model)
 6. [Why a Fleet?](#why-a-fleet)
@@ -55,3 +55,13 @@ This structure ensures clear separation of concerns and predictable task routing
 **Blackbird**, **Mustang**, **Clipper**, **Dragon Lady**, **Nighthawk**, **Shooting Star**, **Hawkeye**, and **Sentry** comprise the Fleet. The following sections describe the responsibilities and operational boundaries of each agent.
 
 ## Interaction Model and Control Plane
+
+# Design Principles
+
+# Operational Model
+
+# Why a Fleet?
+
+# Foundational Work Behind the Concept
+
+# Summary and Closure

@@ -44,7 +44,7 @@ It's also a lot easier to set everything up using SSH if you're able to access y
 ## Download and setup OpenClaw
 
 ## Add the other agents
-Setting up my agents was the easy part after I got the first one online. 
+Setting up my agents was the easy part after I got the first one online. I could literally just ping my agent and immediately have a new one set up and ready to go.
 
 ## Implement local models / model routing
 
