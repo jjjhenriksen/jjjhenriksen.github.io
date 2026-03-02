@@ -49,6 +49,6 @@ Setting up my agents was the easy part after I got the first one online. I could
 ## Implement local models / model routing
 
 # Introducing the Fleet
-See the full blog post about The Fleet [[The-Fleet|here]]. 
+See the full blog post about [The Fleet](The-Fleet.md) for greater detail about how they operate in my daily life. 
 
 #documentation #documentation/ai-agent 

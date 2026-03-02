@@ -67,3 +67,5 @@ This structure ensures clear separation of concerns and predictable task routing
 # Summary and Closure
 
 #documentation #documentation/ai-agent 
+
+[^1]: The primary systems in place here are the Work Unit system (see this post for the spec)
